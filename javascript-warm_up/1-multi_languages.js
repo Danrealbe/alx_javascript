@@ -1,5 +1,7 @@
 #!/usr/bin/node
 
-const mutiple = 'C is fun' + 'Python is cool' + 'JavaScript is amazing'
+const mutiple = 'C is fun\n' +
+	'Python is cool\n' +
+	'JavaScript is amazing'
 
 console.log(mutiple)
