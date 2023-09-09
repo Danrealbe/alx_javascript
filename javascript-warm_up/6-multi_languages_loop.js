@@ -1,5 +1,5 @@
 #!/usr/bin/node
 
 for (const list of['C is fun', 'Python is cool', 'JavaScript is amazing']); {
-
-console.log(list); } 
+	console.log(list); 
+} 
