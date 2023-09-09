@@ -1,5 +1,5 @@
 #!/usr/bin/node
 
-const myprogram ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+for (const myprogram of['C is fun', 'Python is cool', 'JavaScript is amazing']); {
 
-console.log(myprogram);
+console.log(myprogram); } 
